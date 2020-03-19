@@ -1,0 +1,5 @@
+DEBUG main Log4JTutorial1 - Sample debug message
+INFO main Log4JTutorial1 - Sample info message
+WARN main Log4JTutorial1 - Sample warn message
+ERROR main Log4JTutorial1 - Sample error message
+FATAL main Log4JTutorial1 - Sample fatal message

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="26" started-at="2020-01-28T14:43:18 IST" finished-at="2020-01-28T14:43:19 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="26" started-at="2020-01-28T14:43:18 IST" finished-at="2020-01-28T14:43:19 IST">
+      <class name="testng.pomtest.files.RediffLoginTest">
+        <test-method status="PASS" signature="loginCheck()[pri:0, instance:testng.pomtest.files.RediffLoginTest@5cb9f472]" name="loginCheck" duration-ms="3" started-at="2020-01-28T14:43:18 IST" finished-at="2020-01-28T14:43:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheck -->
+        <test-method status="PASS" signature="loginCheck2()[pri:0, instance:testng.pomtest.files.RediffLoginTest@5cb9f472]" name="loginCheck2" duration-ms="0" started-at="2020-01-28T14:43:19 IST" finished-at="2020-01-28T14:43:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheck2 -->
+      </class> <!-- testng.pomtest.files.RediffLoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
