@@ -26,4 +26,8 @@ public class RediffLoginTest {
 		Thread.sleep(2000);
 		//loginpom.submitBtn().click();				
 	}
+	@Test
+	public void demo() {
+		System.out.println("Demo Version");
+	}
 }
