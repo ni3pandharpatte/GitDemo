@@ -28,6 +28,6 @@ public class RediffLoginTest {
 	}
 	@Test
 	public void demo() {
-		System.out.println("Demo Version");
+		System.out.println("Demo Version Added by GitStuff");
 	}
 }
